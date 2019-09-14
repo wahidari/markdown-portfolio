@@ -1,1 +1,1 @@
-# Wahid Ari Project On <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" alt="Your image title" width="48"/> :
+# Wahid Ari Project On <img src="https://miro.medium.com/max/4000/1*J8O2xd9ZqxWr2x6EP4MHmg.png" alt="Github Logo" width="120"/> :
