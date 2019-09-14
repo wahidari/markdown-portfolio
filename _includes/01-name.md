@@ -1,1 +1,1 @@
-# [Wahid Ari](https://github.com/wahidari) Project
+# Wahid Ari Project
