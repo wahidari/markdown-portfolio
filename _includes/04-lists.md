@@ -1,3 +1,4 @@
+* [Sistem Pencarian Dokumen Penelitian](https://wahidari.github.io/Sistem-Pencarian-Dokumen-Penelitian/)
 * [Aplikasi Android Dompetku](https://wahidari.github.io/Aplikasi-Android-Dompetku/)
 * [Aplikasi Android Pendaki](https://wahidari.github.io/Aplikasi-Android-Pendaki/)
 * [Sistem Pengaduan Masyarakat Berbasis Web](https://wahidari.github.io/Sistem-Pengaduan-Masyarakat-Berbasis-Web/)
